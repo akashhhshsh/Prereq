@@ -1,5 +1,5 @@
 class instructor:
-    def  __init__(self,instructor_name,address,followers):
+    def  __init__(self,instructor_name,address):
         self.name=instructor_name
         self.address=address
         self.followers=0
