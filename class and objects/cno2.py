@@ -2,9 +2,9 @@ class instructor:
     #followers=0 #class object variable
 
     def  __init__(self,name,address):
-        self.name=name
-        self.address=address
-        self.followers=0
+        self.name  = name
+        self.address = address
+        self.followers = 0
     
     def display(self,subject_name):
         #self.subject=subject_name
